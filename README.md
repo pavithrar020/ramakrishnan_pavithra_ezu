@@ -118,7 +118,3 @@ Contains the core logic and files for the application.
 - Integrate advanced filtering and search functionality for courses.
 - Improve reporting and analytics capabilities with dynamic charts and graphs.
 - Deploy to a production environment using tools like Gunicorn and Nginx.
-
----
-
-This project is a robust foundation for managing course-related data, offering scalability and customization options for future needs.
